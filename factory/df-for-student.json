@@ -1,0 +1,9 @@
+{
+	"name": "df-for-student",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "badc4b73-e319-44f1-86bc-0bef92da54d4",
+		"tenantId": "2baef15b-b8de-423f-9d8a-46f3686d8848"
+	}
+}
